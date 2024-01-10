@@ -1,6 +1,5 @@
-# Password Generator ( React JS Machine Coding Interview Question )
+# Password Generator
+# Hosted [Link](https://password-generator-react-khaki.vercel.app/)
+## Screenshots
+<img width="911" alt="image" src="https://github.com/rajakhan017/Password-generator-React/assets/135150598/76cae486-5583-4c4c-b918-66429590b712">
 
-### Watch the tutorial here -
-
-## https://www.youtube.com/watch?v=u9-x0sG-WQc
-![#6 Password Generator](https://github.com/piyush-eon/frontend-interview-questions/assets/51760520/cc4cfd02-7cb7-4889-bf47-9133e9aae145)
